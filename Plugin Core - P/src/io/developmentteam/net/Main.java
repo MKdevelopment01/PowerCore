@@ -6,7 +6,12 @@ public class Main extends JavaPlugin {
 
     @Override
     public void onEnable(){
+
         getLogger().info("Enabling PowerCore By KevTheDev and PowerGamerDev");
     }
+    public void  onDisable(){
+
+    }
+
 
 }
